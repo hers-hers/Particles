@@ -131,6 +131,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Engine.cpp" />
+    <ClCompile Include="Matrices.cpp" />
     <ClCompile Include="Particle.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
